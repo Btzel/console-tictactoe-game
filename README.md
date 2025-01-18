@@ -4,7 +4,6 @@ A classic Tic-tac-toe game implemented in C++ for the console.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Game](https://github.com/user-attachments/assets/ec3a0627-11e7-434e-b409-98264d81c877)
 
 ## 🎮 Game Features
 
